@@ -22,3 +22,6 @@ Knowledge index about KAS laboratory research topics
 - [Challenges and Theoretical Basis—Acuation Modalities and Control Architectures - Pt. 1](https://www.youtube.com/watch?v=0E1taAf7WaM)
 - [Challenges and Theoretical Basis—Acuation Modalities and Control Architectures - Pt. 2](https://www.youtube.com/watch?v=LX0KLjxbOgA)
 - [Model Predictive Control for Autonomous Underwater Vehicles & Challenges and Theoretical Basis—System Identification vs. Model Learning of Underwater Vehicles](https://www.youtube.com/watch?v=lfOR5WXuTZw)
+
+## Systems Engineering
+- [Practical Model-Based Systems Engineering](https://www.bol.com/nl/nl/p/practical-model-based-systems-engineering/9200000109126142/)(borrow a book from Carlos)
